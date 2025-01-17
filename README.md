@@ -25,12 +25,12 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/balaji6382
+   https://github.com/Balaji6382/Portfolio.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd Portfolio-Giveway
+   cd portfolio 
    ```
 
 3. **Install Dependencies:**
