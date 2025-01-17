@@ -61,7 +61,7 @@ const Home = () => {
         <div className="order-1 lg:order-2 flex justify-end items-center p-4">
   <img
     className="w-[90%] sm:w-[90%] md:w-[75%] lg:w-[60%] rounded-full border-4 border-white shadow-lg hover:scale-105 focus:scale-105 active:scale-105 transition-transform duration-300"
-    src="./assets/balaji.jpeg"
+    src="/balaji.jpeg"
     alt="Profile"
   />
 </div>
