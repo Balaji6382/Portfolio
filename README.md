@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AMOHAMMEDIMRAN/Portfolio-Giveway.git
+   git clone https://github.com/balaji6382
    ```
 
 2. **Navigate to the Project Directory:**
