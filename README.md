@@ -2,7 +2,7 @@ A modern developer-focused portfolio template built with **Vite**, **React**, an
 
 ## Demo
 
-Check out the live demo:(https://balaji07portfolio.netlify.app)
+Check out the live demo:(portfolio-theta-rouge-59.vercel.app)
 
 ## Features
 
