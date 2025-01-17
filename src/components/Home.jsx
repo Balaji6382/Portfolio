@@ -61,7 +61,7 @@ const Home = () => {
         <div className="order-1 lg:order-2 flex justify-end items-center p-4">
   <img
     className="w-[90%] sm:w-[90%] md:w-[75%] lg:w-[60%] rounded-full border-4 border-white shadow-lg hover:scale-105 focus:scale-105 active:scale-105 transition-transform duration-300"
-    src="/public/WhatsApp Image 2025-01-16 at 5.40.28 PM.jpeg"
+    src="./assets/whatsapp-image.jpeg"
     alt="Profile"
   />
 </div>
